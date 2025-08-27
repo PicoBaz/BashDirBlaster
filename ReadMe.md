@@ -6,10 +6,24 @@
       |  ***  |  Unleash the File System Explorer
       |_______|
 
+
+
+
+
+
+   ```
 ## Mission Brief
 Welcome, Pathfinder! *BashDirBlaster* is your trusty Linux tool for navigating the wild jungles of file systems. Built for speed and stealth, this Bash script scans directories recursively, hunts for files by extension, and logs your findings in JSON and CSV. Whether you're auditing codebases, tracking down configs, or mapping project structures, this tool is your map to buried treasure.
 
 > **Warning**: Only explore territories you have clearance for. Unauthorized scans are a no-go.
+## Features
+- Recursive directory scanning with depth control.
+- File filtering by extension.
+- Advanced filters for size and age.
+- Content search in files.
+- Cleanup of temporary files.
+- Interactive CLI menu for module selection.
+- JSON and CSV output with error handling.
 
 ## Gear Up
 - **Recursive Probes**: Dive deep into directories with configurable depth limits.
@@ -19,8 +33,6 @@ Welcome, Pathfinder! *BashDirBlaster* is your trusty Linux tool for navigating t
 - **Resilience**: Auto-retries on errors to keep your mission on track.
 - **Linux-Optimized**: Harnesses `find` and `jq` for blazing-fast performance.
 
-
-   ```
 ## Launch Protocol
 1. **Secure the Base**:
    ```bash
