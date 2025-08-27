@@ -3,5 +3,9 @@
   "extensions": [".sh", ".txt"],
   "maxDepth": 5,
   "retryCount": 3,
-  "retryDelayMs": 1000
+  "retryDelayMs": 1000,
+  "minFileSize": 1024,
+  "maxFileAgeDays": 30,
+  "searchKeyword": "error",
+  "cleanExtensions": [".tmp", ".log"]
 }
