@@ -1,0 +1,7 @@
+{
+  "directory": "./",
+  "extensions": [".sh", ".txt"],
+  "maxDepth": 5,
+  "retryCount": 3,
+  "retryDelayMs": 1000
+}
