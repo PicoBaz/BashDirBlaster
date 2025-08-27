@@ -95,4 +95,3 @@ Drop a ⭐ if *BashDirBlaster* lights up your file system!
 
 ---
 *Crafted by PicoBaz, 2025*
-```
