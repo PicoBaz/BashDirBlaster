@@ -5,12 +5,6 @@
       |  ***  |  BashDirBlaster
       |  ***  |  Unleash the File System Explorer
       |_______|
-
-
-
-
-
-
    ```
 ## Mission Brief
 Welcome, Pathfinder! *BashDirBlaster* is your trusty Linux tool for navigating the wild jungles of file systems. Built for speed and stealth, this Bash script scans directories recursively, hunts for files by extension, and logs your findings in JSON and CSV. Whether you're auditing codebases, tracking down configs, or mapping project structures, this tool is your map to buried treasure.
