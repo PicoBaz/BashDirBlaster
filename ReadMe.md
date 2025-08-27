@@ -19,12 +19,13 @@ Welcome, Pathfinder! *BashDirBlaster* is your trusty Linux tool for navigating t
 - **Resilience**: Auto-retries on errors to keep your mission on track.
 - **Linux-Optimized**: Harnesses `find` and `jq` for blazing-fast performance.
 
+
+   ```
 ## Launch Protocol
 1. **Secure the Base**:
    ```bash
    git clone https://github.com/PicoBaz/BashDirBlaster.git
    cd BashDirBlaster
-   ```
 2. **Equip Dependencies**:
    Install `jq` for JSON processing:
    ```bash
